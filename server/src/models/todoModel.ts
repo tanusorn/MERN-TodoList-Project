@@ -1,4 +1,3 @@
-import { text } from "body-parser";
 import mongoose from "mongoose";
 
 const todoSchema = new mongoose.Schema(
